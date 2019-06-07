@@ -1,0 +1,50 @@
+package coffeshopmanagementsystem;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+
+import java.awt.Font;
+import javax.swing.JTextField;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.awt.event.ActionEvent;
+import coffeshopmanagementsystem.CoffeShopManagementSystemJFrame;
+public class AddFrame extends JFrame {
+
+	private JPanel contentPane;
+	private JTextField textField;
+	private JLabel label;
+	private JTextField textField_1;
+	private JLabel label_1;
+	private JTextField textField_2;
+	private JLabel label_2;
+	private JTextField textField_3;
+
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					//AddFrame frame = new AddFrame();
+					//frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	public AddFrame() {
+		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+		setBounds(100, 100, 500, 400);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+	}
+}

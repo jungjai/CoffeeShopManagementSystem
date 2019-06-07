@@ -1,0 +1,45 @@
+package coffeshopmanagementsystem;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
+import javax.swing.JScrollPane;
+import javax.swing.ScrollPaneConstants;
+
+public class JPanel extends javax.swing.JPanel {
+
+	/**
+	 * Create the panel.
+	 */
+	public JPanel() {
+		setLayout(null);
+		
+		JButton btnNewButton = new JButton("예약조회");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton.setBounds(110, 245, 91, 23);
+		add(btnNewButton);
+		
+		JButton button = new JButton("예약취소");
+		button.setBounds(210, 245, 91, 23);
+		add(button);
+		
+		JButton button_1 = new JButton("예약화면");
+		button_1.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		button_1.setBounds(338, 245, 91, 23);
+		add(button_1);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(28, 216, 412, -214);
+		add(scrollPane);
+		String []contents = {"자리 No.", "예약자명", "연락처"};
+		defaultTableModel.setColumnIdentifiers(contents);
+
+	}
+}

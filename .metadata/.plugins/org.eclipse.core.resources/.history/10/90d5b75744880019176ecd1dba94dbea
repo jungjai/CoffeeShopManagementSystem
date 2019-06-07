@@ -1,0 +1,95 @@
+package coffeshopmanagementsystem;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+
+import java.awt.Font;
+import javax.swing.JTextField;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.awt.event.ActionEvent;
+import coffeshopmanagementsystem.CoffeShopManagementSystemJFrame;
+public class AddFrame extends JFrame {
+
+	private JPanel contentPane;
+	private JTextField textField;
+	private JLabel label;
+	private JTextField textField_1;
+	private JLabel label_1;
+	private JTextField textField_2;
+	private JButton button;
+
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					//AddFrame frame = new AddFrame();
+					//frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	public AddFrame() {
+		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+		setBounds(100, 100, 500, 400);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		JLabel lblNewLabel = new JLabel("\uC608\uC57D\uC790\uBA85 : ");
+		lblNewLabel.setFont(new Font("±º∏≤", Font.BOLD, 20));
+		lblNewLabel.setBounds(12, 10, 121, 36);
+		contentPane.add(lblNewLabel);
+		
+		textField = new JTextField();
+		textField.setBounds(152, 10, 320, 36);
+		contentPane.add(textField);
+		textField.setColumns(10);
+		
+		label = new JLabel("¿¸»≠π¯»£ :");
+		label.setFont(new Font("±º∏≤", Font.BOLD, 20));
+		label.setBounds(12, 56, 121, 36);
+		contentPane.add(label);
+		
+		textField_1 = new JTextField();
+		textField_1.setColumns(10);
+		textField_1.setBounds(152, 56, 320, 36);
+		contentPane.add(textField_1);
+		
+		label_1 = new JLabel("\uB0A0     \uC9DC  :");
+		label_1.setFont(new Font("±º∏≤", Font.BOLD, 20));
+		label_1.setBounds(12, 102, 121, 36);
+		contentPane.add(label_1);
+		
+		textField_2 = new JTextField();
+		textField_2.setColumns(10);
+		textField_2.setBounds(152, 102, 320, 36);
+		contentPane.add(textField_2);
+		
+		JButton btnNewButton = new JButton("øπæ‡«œ±‚");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton.setFont(new Font("±º∏≤", Font.BOLD, 25));
+		btnNewButton.setBounds(12, 308, 217, 36);
+		contentPane.add(btnNewButton);
+		
+		button = new JButton("øπæ‡√Îº“");
+		button.setFont(new Font("±º∏≤", Font.BOLD, 25));
+		button.setBounds(255, 308, 217, 36);
+		contentPane.add(button);
+	}
+	}
+}
+
