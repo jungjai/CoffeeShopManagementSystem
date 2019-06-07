@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="coffeshopmanagementsystem.OrderMenuControl.SalesInformation" project="src" 
     file="/src/coffeshopmanagementsystem/OrderMenuControl.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="142" width="178" x="1801" y="2383"/>    
+    <position height="-1" width="-1" x="1208" y="2644"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="coffeshopmanagementsystem.AddFrame" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="250" width="178" x="1377" y="37"/>    
+    <position height="-1" width="-1" x="1208" y="352"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="coffeshopmanagementsystem.MyException5" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="1159" y="37"/>    
+    <position height="-1" width="-1" x="118" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="coffeshopmanagementsystem.MemberControl" project="src" 
     file="/src/coffeshopmanagementsystem/MemberControl.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="250" width="341" x="1893" y="2093"/>    
+    <position height="-1" width="-1" x="690" y="2408"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="coffeshopmanagementsystem.MyException6" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="941" y="37"/>    
+    <position height="-1" width="-1" x="336" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="coffeshopmanagementsystem.MyException7" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="41" y="37"/>    
+    <position height="-1" width="-1" x="554" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -57,7 +57,7 @@
   </class>  
   <class id="7" language="java" name="coffeshopmanagementsystem.MyException1" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="505" y="37"/>    
+    <position height="-1" width="-1" x="772" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -66,7 +66,7 @@
   </class>  
   <class id="8" language="java" name="coffeshopmanagementsystem.MyException2" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="723" y="37"/>    
+    <position height="-1" width="-1" x="990" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -75,7 +75,7 @@
   </class>  
   <class id="9" language="java" name="coffeshopmanagementsystem.MyException3" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="2356" y="37"/>    
+    <position height="-1" width="-1" x="1426" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -84,7 +84,7 @@
   </class>  
   <class id="10" language="java" name="coffeshopmanagementsystem.MyException4" project="src" 
     file="/src/coffeshopmanagementsystem/AddFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="1877" y="37"/>    
+    <position height="-1" width="-1" x="1644" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -93,7 +93,7 @@
   </class>  
   <class id="11" language="java" name="coffeshopmanagementsystem.CoffeShopManagementSystemJFrame" project="src" 
     file="/src/coffeshopmanagementsystem/CoffeShopManagementSystemJFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="1726" width="474" x="1377" y="327"/>    
+    <position height="-1" width="-1" x="1356" y="1380"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -102,7 +102,7 @@
   </class>  
   <class id="12" language="java" name="coffeshopmanagementsystem.Order" project="src" 
     file="/src/coffeshopmanagementsystem/Order.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="214" width="215" x="1546" y="2383"/>    
+    <position height="-1" width="-1" x="1444" y="2680"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -111,7 +111,7 @@
   </class>  
   <class id="13" language="java" name="coffeshopmanagementsystem.CoffeShopManagementSystem" project="src" 
     file="/src/coffeshopmanagementsystem/CoffeShopManagementSystem.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="106" width="242" x="1595" y="37"/>    
+    <position height="-1" width="-1" x="1894" y="280"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -120,7 +120,7 @@
   </class>  
   <class id="14" language="java" name="coffeshopmanagementsystem.Member" project="src" 
     file="/src/coffeshopmanagementsystem/Member.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="466" width="285" x="2019" y="2383"/>    
+    <position height="-1" width="-1" x="662" y="2806"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -129,7 +129,7 @@
   </class>  
   <class id="15" language="java" name="coffeshopmanagementsystem.getFile" project="src" 
     file="/src/coffeshopmanagementsystem/CoffeShopManagementSystemJFrame.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="178" x="1377" y="2093"/>    
+    <position height="-1" width="-1" x="990" y="2327"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -139,7 +139,7 @@
   <class id="16" language="java" name="coffeshopmanagementsystem.CoffeShopManagementSystemJFrame.Temporder" 
     project="src" file="/src/coffeshopmanagementsystem/CoffeShopManagementSystemJFrame.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="124" width="178" x="1159" y="2093"/>    
+    <position height="-1" width="-1" x="1208" y="2345"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -148,7 +148,7 @@
   </class>  
   <class id="17" language="java" name="coffeshopmanagementsystem.Menu" project="src" 
     file="/src/coffeshopmanagementsystem/Menu.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="214" width="191" x="1315" y="2383"/>    
+    <position height="-1" width="-1" x="1687" y="2680"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -157,7 +157,7 @@
   </class>  
   <class id="18" language="java" name="coffeshopmanagementsystem.MemberRegisterException" project="src" 
     file="/src/coffeshopmanagementsystem/MemberRegisterException.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="221" x="2095" y="37"/>    
+    <position height="-1" width="-1" x="2165" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -166,7 +166,7 @@
   </class>  
   <class id="19" language="java" name="coffeshopmanagementsystem.MenuRegisterException" project="src" 
     file="/src/coffeshopmanagementsystem/MenuRegisterException.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="88" width="206" x="259" y="37"/>    
+    <position height="-1" width="-1" x="2419" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -175,7 +175,7 @@
   </class>  
   <class id="20" language="java" name="coffeshopmanagementsystem.OrderMenuControl" project="src" 
     file="/src/coffeshopmanagementsystem/OrderMenuControl.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="232" width="258" x="1595" y="2093"/>    
+    <position height="-1" width="-1" x="1466" y="2399"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

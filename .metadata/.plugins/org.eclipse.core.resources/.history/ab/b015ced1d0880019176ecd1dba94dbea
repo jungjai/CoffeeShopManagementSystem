@@ -1149,7 +1149,7 @@ public class CoffeShopManagementSystemJFrame extends JFrame {
 				thread3.start();	
 			}
 			private synchronized void manager_search() {
-				try {	
+				try {
 					String day = textField.getText();
 					if (day.equals(""))
 						throw new MyException5("날짜가 비어있습니다.");
